@@ -52,6 +52,18 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormAzul.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAzul.Designer.cs">
+      <DependentUpon>FormAzul.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formverde.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formverde.Designer.cs">
+      <DependentUpon>Formverde.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
